@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+
+.perfil {
+    text-align: center;
+    margin-right: 20px;
+}
+
+.perfil img {
+    width: 100px;
+    height: auto;
+    border-radius: 5%;
+    margin-bottom: 1px;
+}
+
+.contacto {
+    border-left: 1px solid #e10e0e;
+    padding-left: 20px;
+    margin-top: 0;
+}
+
+
